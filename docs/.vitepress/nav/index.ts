@@ -11,5 +11,10 @@ export const nav = [
   { text: '浏览器相关', link: '/浏览器相关/' },
   { text: '计算机网络', link: '/计算机网络/' },
   { text: 'Git', link: '/git/' },
-  { text: '其他', link: '/其他/' }
+  {
+    text: '其他',
+    items: [
+      { text: '设计模式', link: '/其他/设计模式' },
+    ]
+  }
 ]
