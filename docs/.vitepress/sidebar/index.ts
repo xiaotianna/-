@@ -44,6 +44,7 @@ export const sidebar = {
       items: [
         { text: '低代码项目性能优化', link: '/项目/个人项目/低代码项目性能优化' },
         { text: '开发约定式路由插件', link: '/项目/个人项目/开发约定式路由插件' },
+        { text: '低代码物料组件库搭建', link: '/项目/个人项目/低代码物料组件库搭建' },
         { text: '单元测试', link: '/项目/个人项目/单元测试' },
       ]
     }
@@ -61,6 +62,14 @@ export const sidebar = {
     {
       items: [
         { text: 'git常用命令', link: '/git/' },
+      ]
+    },
+    {
+      items: [
+        { text: 'git提交规范', link: '/git/git提交规范' },
+        { text: 'git提交前 husky、lint-staged', link: '/git/git提交前' },
+        { text: 'git提交中', link: '/git/git提交中' },
+        { text: 'git提交后 commitlint', link: '/git/git提交后' },
       ]
     }
   ],
