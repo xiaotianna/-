@@ -43,6 +43,8 @@ export const sidebar = {
       text: '个人项目',
       items: [
         { text: '低代码项目性能优化', link: '/项目/个人项目/低代码项目性能优化' },
+        { text: '开发约定式路由插件', link: '/项目/个人项目/开发约定式路由插件' },
+        { text: '单元测试', link: '/项目/个人项目/单元测试' },
       ]
     }
   ],
@@ -52,6 +54,13 @@ export const sidebar = {
       items: [
         { text: '目录', link: '/算法/' }
         // ...
+      ]
+    }
+  ],
+  '/git/': [
+    {
+      items: [
+        { text: 'git常用命令', link: '/git/' },
       ]
     }
   ],
