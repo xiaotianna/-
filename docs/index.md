@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-    tagline: 前端常见面试题📖
+    tagline: 前端面试题📖
     
 features:
     - title: HTML

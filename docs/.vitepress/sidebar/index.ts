@@ -16,6 +16,18 @@ export const sidebar = {
     //   ]
     // }
   ],
+  '/前端工程化/': [
+    {
+      text: '前端工程化',
+      items: [
+        { text: '目录', link: '/前端工程化/' }
+      ]
+    },
+    {
+      text: 'babel',
+      link: '/前端工程化/babel'
+    },
+  ],
   '/性能优化/': [
     {
       text: '性能优化',

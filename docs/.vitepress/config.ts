@@ -3,7 +3,7 @@ import { nav } from './nav'
 import { sidebar } from './sidebar'
 
 export default defineConfig({
-  title: '前端常见面试题',
+  title: '前端面试题',
   markdown: {
     lineNumbers: true
   },
