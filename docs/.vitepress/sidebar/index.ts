@@ -42,6 +42,7 @@ export const sidebar = {
         { text: 'React性能优化', link: '/性能优化/React性能优化' },
         { text: 'Vue性能优化', link: '/性能优化/Vue性能优化' },
         { text: '页面请求接口大规模并发问题', link: '/性能优化/页面请求接口大规模并发问题' },
+        { text: '缓存', link: '/性能优化/缓存' },
       ]
     },
   ],
@@ -49,7 +50,7 @@ export const sidebar = {
     {
       text: '实习项目',
       items: [
-        { text: '移动端上拉加载、下拉刷新实现方案', link: '/项目/实习项目/移动端上拉加载、下拉刷新实现方案' },
+        { text: '移动端上拉加载、下拉刷新实现方案', link: '/项目/' },
       ]
     },
     {

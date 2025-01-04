@@ -4,6 +4,12 @@
 
 ::: tip
 react性能优化主要是围绕着 `state 状态` 展开，实际上是在想办法减少 `rerender(重新渲染)`
+
+- 组件异步加载：`React.lazy`、`Suspense`、`import() 动态导入`(与分包有关)
+- `React.memo`：阻止一些不必要的更新
+- `useMemo`、`useCallback` 的使用
+- `performance` 进行性能分析
+
 :::
 
 ## 调试工具

@@ -29,6 +29,8 @@ ast 在线转换：[https://astexplorer.net/](https://astexplorer.net/)
 
 ## babel 转换过程
 
+![babel工作流程](./img/babel工作流程.png)
+
 babel 提供了 JavaScript 的编译链路，能够将源代码转换为目标代码。
 
 转换过程：`ast抽象语法树 -> transform转换 -> generate生成`
@@ -299,3 +301,7 @@ const fn = function (num) {
 ```
 
 :::
+
+## plugin
+
+`plugin` 决定了 `babel` 的编译能力
