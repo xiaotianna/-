@@ -21,8 +21,6 @@ features:
       link: /性能优化/index.md
     - title: 项目
       link: /项目/index.md
-    - title: 场景题
-      link: /场景题/index.md
     - title: 算法
       link: /算法/index.md
     - title: 浏览器相关

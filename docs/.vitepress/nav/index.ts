@@ -7,7 +7,6 @@ export const nav = [
   { text: '前端工程化', link: '/前端工程化/', activeMatch: '/前端工程化/' },
   { text: '性能优化', link: '/性能优化/', activeMatch: '/性能优化/' },
   { text: '项目', link: '/项目/', activeMatch: '/项目/' },
-  { text: '场景题', link: '/场景题/', activeMatch: '/场景题/' },
   { text: '算法', link: '/算法/', activeMatch: '/算法/' },
   { text: '浏览器相关', link: '/浏览器相关/', activeMatch: '/浏览器相关/' },
   { text: '计算机网络', link: '/计算机网络/', activeMatch: '/计算机网络/' },
