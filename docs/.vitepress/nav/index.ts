@@ -9,12 +9,12 @@ export const nav = [
   { text: '项目', link: '/项目/', activeMatch: '/项目/' },
   { text: '算法', link: '/算法/', activeMatch: '/算法/' },
   { text: '浏览器相关', link: '/浏览器相关/', activeMatch: '/浏览器相关/' },
-  { text: '计算机网络', link: '/计算机网络/', activeMatch: '/计算机网络/' },
   { text: 'Git', link: '/git/', activeMatch: '/git/' },
   {
     text: '其他',
     items: [
-      { text: '设计模式', link: '/其他/设计模式' },
+      { text: '设计模式', link: '/其他/设计模式/', activeMatch: '/其他/设计模式/' },
+      { text: '计算机网络', link: '/其他/计算机网络/', activeMatch: '/其他/计算机网络/' },
     ]
   }
 ]
